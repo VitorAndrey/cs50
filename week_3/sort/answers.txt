@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: Perform better than sort 3 in best cenario. Ω(n)
+
+sort2 uses: merge sort
+
+How do you know?: This is the fatest. O(n log n)
+
+sort3 uses: selection sort
+
+How do you know?: The slowest in general O(n^2)
